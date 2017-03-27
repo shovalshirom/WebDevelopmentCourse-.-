@@ -1,0 +1,190 @@
+﻿body
+
+ 
+{
+    direction:rtl;
+    line-height:30PX;
+  
+    
+    
+    
+}
+
+h1{
+    text-align: center;
+
+    font-family: Tahoma;
+    font-size: 50PX;
+
+}
+
+#container{
+
+     border:10PX solid purple;
+    background-color: #eecbe2;
+    width: 1000PX;
+    height: 1600PX;
+
+}
+
+#shovalp {
+    background-image: url('../images/20170114_150714.jpg');
+      background-size:160PX;
+    width:150PX;
+    height: 90PX;
+   background-repeat: no-repeat;
+}
+
+
+
+
+#facebook {
+    background-image: url('../images/facebook.jpeg');
+    background-size:30PX;
+    width:90PX;
+    height: 60PX;
+    background-repeat: no-repeat;
+    -webkit-transition: all 2s ease;
+-moz-transition: all 2s ease;
+-ms-transition: all 2s ease;
+-o-transition: all 2s ease;
+transition: all 2s ease;
+}
+
+#facebook:hover {
+    background-image: url('../images/facebook.jpeg');
+    background-size:60PX;
+    width:100PX;
+    height: 60PX;
+    background-repeat: no-repeat;
+}
+
+#facebook:active {
+    background-image: url('../images/facebook.jpeg');
+    background-size:40PX;
+    width:100PX;
+    height: 60PX;
+    background-repeat: no-repeat;
+    border: 15PX purple solid;
+    
+}
+
+#youtube {
+    background-image: url('../images/youtube.jpeg');
+    background-size: 60PX;
+    width: 100PX;
+    height: 60PX;
+    background-repeat: no-repeat;
+    -webkit-transition: all 2s ease;
+-moz-transition: all 2s ease;
+-ms-transition: all 2s ease;
+-o-transition: all 2s ease;
+transition: all 2s ease;
+}
+
+#youtube:hover {
+    background-image: url('../images/youtube.jpeg');
+    background-size: 90PX;
+    width: 190PX;
+    height: 60PX;
+    background-repeat: no-repeat;
+}
+
+#youtube:active {
+    background-image: url('../images/youtube.jpeg');
+    background-size: 60PX;
+    width: 190PX;
+    height: 60PX;
+    background-repeat: no-repeat;
+    border: 15PX purple solid;
+    
+}
+
+#gmail {
+    background-image: url('../images/gmail-logo.jpg');
+    background-size: 50PX;
+    width: 90PX;
+    height: 60PX;
+    background-repeat: no-repeat;
+    -webkit-transition: all 2s ease;
+-moz-transition: all 2s ease;
+-ms-transition: all 2s ease;
+-o-transition: all 2s ease;
+transition: all 2s ease;
+}
+
+#gmail:hover {
+    background-image: url('../images/gmail-logo.jpg');
+    background-size: 100PX;
+    width: 100PX;
+    height: 60PX;
+    background-repeat: no-repeat;
+}
+
+#gmail:active {
+    background-image: url('../images/gmail-logo.jpg');
+    background-size: 50PX;
+    width: 100PX;
+    height: 60PX;
+    background-repeat: no-repeat;
+     border: 15PX purple solid;
+}
+
+
+
+
+#container{
+    width:960PX;
+    margin:0 auto;
+    
+
+}
+
+.second{
+
+    color:mediumpurple;
+    background-position: 30PX 40PX;
+    
+}
+
+.style{
+
+
+    color: purple;
+    
+    font-size: 30PX;
+   
+    font-weight: bold;
+}
+.style1{
+
+    width: 500PX;
+    height: 28PX;
+    background-color: plum;
+    color: black;
+    font-family: Tahoma;
+
+
+
+}
+
+#bold1{
+
+
+    font-weight: bold;
+}
+
+#years{
+
+    text-decoration: underline;
+}
+
+h2>p { 
+
+    font-family: Arial;
+}   
+    
+
+
+
+   
